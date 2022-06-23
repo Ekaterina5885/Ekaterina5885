@@ -1,8 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
 </div>
+ <div id="badges" align="center">
+  <a href="https://t.me/KaterinaTester">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
  <img src="https://komarev.com/ghpvc/?username=Ekaterina5885&style=flat-square&color=blue" alt=""/>
- 
+
  ### :woman_technologist: About Me :
 
   ---
