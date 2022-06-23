@@ -14,7 +14,7 @@
   
 Привет! :wave:
 
-Я - Екатерина Колесникова, тестировщик мобильных и веб-приложений <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Я - Катерина, тестировщик мобильных и веб-приложений <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
  
   ---
 
