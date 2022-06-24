@@ -78,22 +78,22 @@
 
 + #### Диплом о профессиональной переподготовке
 
-+ #### Ручное тестирование программного обеспечения
++ #### [Ручное тестирование программного обеспечения](https://github.com/Ekaterina5885/Certificates/blob/master/Ручное%20тестирование%20программного%20обеспечения.pdf)
 
-+ #### Git — система контроля версий
++ #### [Git — система контроля версий](https://github.com/Ekaterina5885/Certificates/blob/master/Git%20—%20система%20контроля%20версий.pdf)
 
-+ #### Java для тестировщиков
++ #### [Java для тестировщиков](https://github.com/Ekaterina5885/Certificates/blob/master/Java%20для%20тестировщиков.pdf)
 
-+ #### Автоматизированное тестирование
++ #### [Автоматизированное тестирование на Java](https://github.com/Ekaterina5885/Certificates/blob/master/Автоматизация%20тестирования%20на%20Java.pdf)
 
-+ #### JavaScript для тестировщиков
++ #### [JavaScript для тестировщиков](https://github.com/Ekaterina5885/Certificates/blob/master/JavaScript%20для%20тестировщиков.pdf)
 
-+ #### Автоматизация тестирования веб-интерфейсов
++ #### [Автоматизация тестирования веб-интерфейсов на JavaScript](https://github.com/Ekaterina5885/Certificates/blob/master/Автоматизация%20тестирования%20на%20JavaScript.pdf)
 
-+ #### Тестирование мобильных приложений
++ #### [Тестирование мобильных приложений](https://github.com/Ekaterina5885/Certificates/blob/master/Тестирование%20мобильных%20приложений.pdf)
 
-+ #### Тестирование производительности
++ #### [Тестирование производительности](https://github.com/Ekaterina5885/Certificates/blob/master/Тестирование%20производительности.pdf)
 
-+ #### Тестирование безопасности
++ #### [Тестирование безопасности](https://github.com/Ekaterina5885/Certificates/blob/master/Тестирование%20безопасности.pdf)
 
 
