@@ -48,6 +48,8 @@
    
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaterina5885&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
+  ---
+  
 ### Вот, что я знаю:
 
 + #### Espresso, Android Studio [Автоматизация тестирования мобильного приложения](https://github.com/Ekaterina5885/Diploma_Project)
@@ -74,6 +76,8 @@
 
 + #### [Appium](https://github.com/Ekaterina5885/DZ-Appium)
 
+  ---
+  
 ### Сертификаты
 
 + #### Диплом о профессиональной переподготовке
