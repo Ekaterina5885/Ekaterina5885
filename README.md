@@ -19,7 +19,7 @@
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
-  Java,  JavaScript,  Python, Git, JUnit, Selenium WebDriver, Selenide, JaCoCo, Puppeteer, Playwright, Cypress, Postman, SoapUI, SQL, MySQL, PostgresSQL, DBeaver, Github Actions, AppVeyor, Jenkins, Teamcity, Gitlab CI, Charles Proxy, Fiddler, Espresso, Appium, UI Automator Viewer, Apache Jmeter, Telegraf, influxDB, Prometheus, Grafana, ZAP, Wireshark, NMAP. 
+  Java,  JavaScript,  Python, Git, JUnit, Selenium WebDriver, Selenide, JaCoCo, Puppeteer, Playwright, Cypress, Postman, SoapUI, SQL, MySQL, PostgresSQL, DBeaver, Github Actions, AppVeyor, Jenkins, Teamcity, Charles Proxy, Fiddler, Espresso, Appium, UI Automator Viewer, Apache Jmeter, Telegraf, influxDB, Prometheus, Grafana, ZAP, Wireshark, NMAP. 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
