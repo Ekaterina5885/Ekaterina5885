@@ -96,6 +96,8 @@
 
 + #### [Автоматизация тестирования веб-интерфейсов на JavaScript](https://github.com/Ekaterina5885/Certificates/blob/master/Автоматизация%20тестирования%20на%20JavaScript.pdf)
 
++ #### [Python](https://github.com/Ekaterina5885/Certificates/blob/master/Python.pdf)
+
 + #### [Тестирование мобильных приложений](https://github.com/Ekaterina5885/Certificates/blob/master/Тестирование%20мобильных%20приложений.pdf)
 
 + #### [Тестирование производительности](https://github.com/Ekaterina5885/Certificates/blob/master/Тестирование%20производительности.pdf)
