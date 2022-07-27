@@ -52,9 +52,9 @@
   
 ### Вот, что я знаю:
 
-+ #### Espresso, Android Studio [Автоматизация тестирования мобильного приложения](https://github.com/Ekaterina5885/Diploma_Project)
++ #### [Espresso, Android Studio Автоматизация тестирования мобильного приложения](https://github.com/Ekaterina5885/Diploma_Project)
 
-+ #### Java [Примеры в репозитории](https://github.com/Ekaterina5885?page=2&tab=repositories)
++ #### [Java Примеры в репозитории](https://github.com/Ekaterina5885?page=2&tab=repositories)
 
 + #### [№1 Java, JUnit, Selenium WebDriver, Selenide, Appveyor](https://github.com/Ekaterina5885/DZ-2.1.-Selenide) 
   
