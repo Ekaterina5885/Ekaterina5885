@@ -52,7 +52,7 @@
   
 ### Вот, что я знаю:
 
-+ #### [Espresso, Android Studio Дипломный проект: Автоматизация тестирования мобильного приложения  "Мобильный хоспис"](https://github.com/Ekaterina5885/Diploma_Project)
++ ####  Espresso, Android Studio [Дипломный проект: Автоматизация тестирования мобильного приложения  "Мобильный хоспис"](https://github.com/Ekaterina5885/Diploma_Project)
 
 + #### [Java Примеры в репозитории](https://github.com/Ekaterina5885?page=2&tab=repositories)
 
