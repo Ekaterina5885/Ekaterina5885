@@ -80,7 +80,7 @@
 
   ---
   
-### Сертификаты
+### Дипломы и сертификаты
 
 + #### [Диплом о профессиональной переподготовке](https://github.com/Ekaterina5885/Certificates/blob/master/Diploma.pdf)
 
