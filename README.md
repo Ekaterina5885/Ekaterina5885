@@ -56,9 +56,9 @@
 
 + #### [Java Примеры в репозитории](https://github.com/Ekaterina5885?page=2&tab=repositories)
 
-+ #### [№1 Java, JUnit, Selenium WebDriver, Selenide, Appveyor](https://github.com/Ekaterina5885/DZ-2.1.-Selenide) 
++ #### [№1 Java, JUnit, Selenide, Appveyor](https://github.com/Ekaterina5885/DZ-2.1.-Selenide) 
   
-+ #### [№2 Java, JUnit, Selenium WebDriver, Selenide, Appveyor](https://github.com/Ekaterina5885/DZ-2.2.-Selenide)
++ #### [№2 Java, JUnit, Selenide, Appveyor](https://github.com/Ekaterina5885/DZ-2.2.-Selenide)
 
 + #### Java JDK 11, Gradle, Faker, JUnit 5, Selenide, Allure Framework,  Docker с образом MySQL, Docker с образом PostgreSQL, IntelliJ IDEA Community Edition [Курсовой проект: Автоматизации тестирования веб-сервиса](https://github.com/Ekaterina5885/Course_Work)
 
