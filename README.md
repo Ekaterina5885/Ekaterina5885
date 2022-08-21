@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
 </div>
  <div id="badges" align="center">
-  <a href="https://t.me/KaterinaTester">
+  <a href="https://t.me/KaterinaQAEngineer">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
