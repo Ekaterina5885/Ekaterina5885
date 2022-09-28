@@ -50,8 +50,22 @@
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ekaterina5885\&theme=dark&background=000000)](https://git.io/streak-stats)
   ---
-  
-### Вот, что я знаю:
+### Тестовая документация: 
+
+[План тестирования]()
+
+[Чек-лист](https://docs.google.com/spreadsheets/d/1uzHcx7M66TkrUWErOtgBmTaC__50c0Yj/edit?usp=sharing&ouid=109185440093268006504&rtpof=true&sd=true)
+
+[Тест-кейсы](https://docs.google.com/spreadsheets/d/1Uni5rCr4dsbijkNpw75I1a7tq9WN0ROD/edit?usp=sharing&ouid=109185440093268006504&rtpof=true&sd=true)
+
+[Баг-репорты](https://docs.google.com/spreadsheets/d/13gUHj7c3-mlbyrI3XcJnNswugGDzaUAtWG2ll4ejBmI/edit?usp=sharing)
+
+[Баг-репорты](https://docs.google.com/spreadsheets/d/1w6FgsukH_TwrbJAzGXKyrkxnfpiqgIcsbueSOn2vnfg/edit?usp=sharing)
+
+[Отчёт о результатах тестирования]()
+
+
+### Вот что я знаю:
 
 + ####  Espresso, Android Studio [Дипломный проект: Автоматизация тестирования мобильного приложения  "Мобильный хоспис"](https://github.com/Ekaterina5885/Diploma_Project)
 
