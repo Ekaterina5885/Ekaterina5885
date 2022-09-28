@@ -97,7 +97,7 @@
   
 ### Дипломы и сертификаты:
 
-+ #### [Диплом о профессиональной переподготовке](https://github.com/Ekaterina5885/Certificates/blob/master/Diploma.pdf)
++ #### [Диплом о профессиональной переподготовке](https://drive.google.com/file/d/1x3mFif8Pl7jOV_JHIa1XcuTM4k2HY9oK/view?usp=sharing)
 
 + #### [Ручное тестирование программного обеспечения](https://github.com/Ekaterina5885/Certificates/blob/master/Ручное%20тестирование%20программного%20обеспечения.pdf)
 
