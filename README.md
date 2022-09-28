@@ -52,17 +52,17 @@
   ---
 ### Тестовая документация: 
 
-[План тестирования]()
++ #### [План тестирования](https://github.com/Ekaterina5885/Diploma_Project/blob/master/Plan.md)
 
-[Чек-лист](https://docs.google.com/spreadsheets/d/1uzHcx7M66TkrUWErOtgBmTaC__50c0Yj/edit?usp=sharing&ouid=109185440093268006504&rtpof=true&sd=true)
++ #### [Чек-лист](https://docs.google.com/spreadsheets/d/1uzHcx7M66TkrUWErOtgBmTaC__50c0Yj/edit?usp=sharing&ouid=109185440093268006504&rtpof=true&sd=true)
 
-[Тест-кейсы](https://docs.google.com/spreadsheets/d/1Uni5rCr4dsbijkNpw75I1a7tq9WN0ROD/edit?usp=sharing&ouid=109185440093268006504&rtpof=true&sd=true)
++ #### [Тест-кейсы](https://docs.google.com/spreadsheets/d/1Uni5rCr4dsbijkNpw75I1a7tq9WN0ROD/edit?usp=sharing&ouid=109185440093268006504&rtpof=true&sd=true)
 
-[Баг-репорты](https://docs.google.com/spreadsheets/d/13gUHj7c3-mlbyrI3XcJnNswugGDzaUAtWG2ll4ejBmI/edit?usp=sharing)
++ #### [Баг-репорты](https://docs.google.com/spreadsheets/d/13gUHj7c3-mlbyrI3XcJnNswugGDzaUAtWG2ll4ejBmI/edit?usp=sharing)
 
-[Баг-репорты](https://docs.google.com/spreadsheets/d/1w6FgsukH_TwrbJAzGXKyrkxnfpiqgIcsbueSOn2vnfg/edit?usp=sharing)
++ #### [Баг-репорты](https://docs.google.com/spreadsheets/d/1w6FgsukH_TwrbJAzGXKyrkxnfpiqgIcsbueSOn2vnfg/edit?usp=sharing)
 
-[Отчёт о результатах тестирования]()
++ #### [Отчёт о результатах тестирования](https://github.com/Ekaterina5885/Diploma_Project/blob/master/Result.md)
 
 
 ### Вот что я знаю:
