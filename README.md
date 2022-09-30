@@ -67,7 +67,7 @@
 
 ### Мои проекты:
 
-+ ####  [Espresso, Android Studio Дипломный проект: Автоматизация тестирования мобильного приложения  "Мобильный хоспис"](https://github.com/Ekaterina5885/Diploma_Project)
++ ####  Espresso, Android Studio [Дипломный проект: Автоматизация тестирования мобильного приложения  "Мобильный хоспис"](https://github.com/Ekaterina5885/Diploma_Project)
 
 + #### [Java Примеры в репозитории](https://github.com/Ekaterina5885?page=2&tab=repositories)
 
@@ -75,7 +75,7 @@
   
 + #### [№2 Java, JUnit, Selenide, Appveyor](https://github.com/Ekaterina5885/DZ-2.2.-Selenide)
 
-+ #### [Java JDK 11, Gradle, Faker, JUnit 5, Selenide, Allure Framework,  Docker с образом MySQL, Docker с образом PostgreSQL, IntelliJ IDEA Community Edition Курсовой проект: Автоматизации тестирования веб-сервиса](https://github.com/Ekaterina5885/Course_Work)
++ #### Java JDK 11, Gradle, Faker, JUnit 5, Selenide, Allure Framework,  Docker с образом MySQL, Docker с образом PostgreSQL, IntelliJ IDEA Community Edition [Курсовой проект: Автоматизации тестирования веб-сервиса](https://github.com/Ekaterina5885/Course_Work)
 
 + #### [JavaScript](https://github.com/Ekaterina5885/bjs-2-homeworks)
 
