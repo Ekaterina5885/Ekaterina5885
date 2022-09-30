@@ -50,7 +50,7 @@
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ekaterina5885\&theme=dark&background=000000)](https://git.io/streak-stats)
   ---
-### Тестовая документация (Примеры): 
+### Тестовая документация (Примеры работ): 
 
 + #### [План тестирования](https://github.com/Ekaterina5885/Diploma_Project/blob/master/Plan.md)
 
