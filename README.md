@@ -65,7 +65,7 @@
 + #### [Отчёт о результатах тестирования](https://github.com/Ekaterina5885/Diploma_Project/blob/master/Result.md)
 
 
-### Вот что я знаю:
+### Мои проекты:
 
 + ####  Espresso, Android Studio [Дипломный проект: Автоматизация тестирования мобильного приложения  "Мобильный хоспис"](https://github.com/Ekaterina5885/Diploma_Project)
 
