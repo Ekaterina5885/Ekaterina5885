@@ -96,7 +96,7 @@
 
 + #### [Appium](https://github.com/Ekaterina5885/DZ-Appium)
 
-  ---
+ ---
   
 ### Дипломы и сертификаты:
 
