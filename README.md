@@ -66,7 +66,7 @@
 
 + #### [Отчёт о результатах тестирования](https://github.com/Ekaterina5885/Diploma_Project/blob/master/Result.md)
 
-  ---
+ ---
 
 ### Мои проекты:
 
