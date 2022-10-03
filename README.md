@@ -49,7 +49,9 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaterina5885&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ekaterina5885\&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
   ---
+  
 ### Тестовая документация (Примеры работ): 
 
 + #### [План тестирования](https://github.com/Ekaterina5885/Diploma_Project/blob/master/Plan.md)
@@ -64,6 +66,7 @@
 
 + #### [Отчёт о результатах тестирования](https://github.com/Ekaterina5885/Diploma_Project/blob/master/Result.md)
 
+  ---
 
 ### Мои проекты:
 
