@@ -52,7 +52,7 @@
  
   ---
   
-### Тестовая документация (Примеры работ): 
+### :bookmark_tabs: Тестовая документация (Примеры работ): 
 
 + #### [План тестирования](https://github.com/Ekaterina5885/Diploma_Project/blob/master/Plan.md)
 
@@ -68,7 +68,7 @@
 
  ---
 
-### Мои проекты:
+### :computer: Мои проекты:
 
 + ####  Espresso, Android Studio [Дипломный проект: Автоматизация тестирования мобильного приложения  "Мобильный хоспис"](https://github.com/Ekaterina5885/Diploma_Project)
 
@@ -98,7 +98,7 @@
 
  ---
   
-### Дипломы и сертификаты:
+### :mortar_board: Дипломы и сертификаты:
 
 + #### [Диплом о профессиональной переподготовке](https://drive.google.com/file/d/1DYzyy_6iCwc2RtYyHaDXoic_p2TU0jkC/view?usp=sharing)
 
